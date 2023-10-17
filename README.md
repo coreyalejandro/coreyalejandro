@@ -13,8 +13,8 @@
 ## 🚀 Projects
 
 - [Data Science Projects](https://github.com/CoreyAlejanadro-DataScience)
-- [Instructional Design Projects](https://github.com/CoreyAlejanadro-InstructionalDesign)
-- [UI/UX Design Projects](https://github.com/CoreyAlejanadro-UIUX)
+- [Instructional Design Projects](https://github.com/CoreyAlejandro-InstructionalDesign)
+- [UI/UX Design Projects](https://github.com/CoreyAlejandro-UIUX)
 - [Web Development Projects](https://github.com/CoreyAlejanadro-WebDevelopment)
 
 ## 📚 Learning
