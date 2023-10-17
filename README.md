@@ -1,6 +1,7 @@
-# Corey Alejandro's Portfolio
+# Corey Alejandro
 
 👋🏾 Hi there! I'm Corey Alejandro, a Full Stack Data Scientist specialized in Instructional Design, UI/UX, and Web Development.
+
 ## 🌱 Areas of Focus
 
 - **Data Science**
@@ -19,7 +20,7 @@
 
 ## 📚 Learning
 
-Currently enrolled in:
+Professional Certifications programs:
 
 - BloomTech Full Stack Web Development Program
 - Analytics Vidhya Black Belt Machine Learning Program
