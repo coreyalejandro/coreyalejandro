@@ -1,6 +1,6 @@
 # Corey Alejandro's Portfolio
 
-👋 Hi there! I'm Corey Alejandro, a Full Stack Data Scientist specialized in Instructional Design, UI/UX, and Web Development.
+👋🏾 Hi there! I'm Corey Alejandro, a Full Stack Data Scientist specialized in Instructional Design, UI/UX, and Web Development.
 ## 🌱 Areas of Focus
 
 - **Data Science**
@@ -12,10 +12,10 @@
 
 ## 🚀 Projects
 
-- [Data Science Projects](https://github.com/coreyalejandro/Data-Science)
-- [Instructional Design Projects](https://github.com/coreyalejandro/Instructional-Design)
-- [UI/UX Design Projects](https://github.com/coreyalejandro/UI-UX)
-- [Full Stack Web Development Projects](https://github.com/coreyalejandro/Web-Development)
+- [Data Science Projects](https://github.com/CoreyAlejanadro-DataScience)
+- [Instructional Design Projects](https://github.com/CoreyAlejanadro-InstructionalDesign)
+- [UI/UX Design Projects](https://github.com/CoreyAlejanadro-UIUX)
+- [Web Development Projects](https://github.com/CoreyAlejanadro-WebDevelopment)
 
 ## 📚 Learning
 
