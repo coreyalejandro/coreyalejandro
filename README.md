@@ -4,7 +4,7 @@
 
 ## 🌱 Areas of Focus
 
-- **Data Science (Machine Learning/AI)**
+- **Data Science (AI/Machine Learning)**
 - **Instructional Design**
 - **UI/UX Design**
 - **Web Development**
@@ -12,7 +12,7 @@
 
 ## 🚀 Projects
 
-- [Data Science (Machine Learning) Projects](https://github.com/CoreyAlejanadro-DataScience)
+- [Data Science (AI/Machine Learning) Projects](https://github.com/CoreyAlejanadro-DataScience)
 - [Instructional Design Projects](https://github.com/CoreyAlejandro-InstructionalDesign)
 - [UI/UX Design Projects](https://github.com/CoreyAlejandro-UIUX)
 - [Web Development Projects](https://github.com/CoreyAlejanadro-WebDevelopment)
