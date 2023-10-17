@@ -1,16 +1,33 @@
-### Hi there 👋
+# Corey Alejandro's Portfolio
 
-<!--
-**coreyalejandro/coreyalejandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I'm Corey Alejandro, a Full Stack Data Scientist specialized in Instructional Design, UI/UX, and Web Development.
+## 🌱 Areas of Focus
 
-Here are some ideas to get you started:
+- **Data Science**
+- **Instructional Design**
+- **UI/UX Design**
+- **Full Stack Web Development**
+- **Machine Learning**
+- **Artificial Intelligence**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+- [Data Science Projects](https://github.com/coreyalejandro/Data-Science)
+- [Instructional Design Projects](https://github.com/coreyalejandro/Instructional-Design)
+- [UI/UX Design Projects](https://github.com/coreyalejandro/UI-UX)
+- [Full Stack Web Development Projects](https://github.com/coreyalejandro/Web-Development)
+
+## 📚 Learning
+
+Currently enrolled in:
+
+- BloomTech Full Stack Web Development Program
+- Analytics Vidhya Black Belt Machine Learning Program
+- DeeplearningAI and Stanford Online’s Machine Learning Specialization on Coursera
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/coreyalejandro/)
+- [Twitter](https://twitter.com/coreyalejandroX)
+- [Personal Website](https://www.coreyalejandro.com)
+
