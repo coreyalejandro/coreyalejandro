@@ -14,7 +14,7 @@
 - [Data Science (AI/Machine Learning) Projects](https://github.com/CoreyAlejanadro-DataScience)
 - [Instructional Design Projects](https://github.com/CoreyAlejandro-InstructionalDesign)
 - [UI/UX Design Projects](https://github.com/CoreyAlejandro-UIUX)
-- [Web Development Projects](https://github.com/CoreyAlejanadro-WebDevelopment)
+- [Web Development Projects](https://github.com/CoreyAlejandro-WebDevelopment))
 
 ## 📚 Learning
 Professional Certifications programs:
