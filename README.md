@@ -1,4 +1,15 @@
-# Corey Alejandro
+# Corey Alejandro (Working Version)
+
+👋🏾 Hi there! I'm Corey Alejandro, a full stack data scientist (and Machine Learning Engineer in-the-making) with a triple threat designer skillset in Instructional Design/Instructional Systems Design (ISD),  User Interface and User Experience (UI/UX) Design and full stack Web Development and Design and Development (WeDev)— working at the intersection of artificial intelligence (AI), mental health, learning and developmment social and restorative justice.
+<br>
+
+
+![](https://i.imgur.com/0kcVIOK.gif)
+
+
+I think of my GitHub page as the backend to my website: [coreyalejandro.com](https://www.coreyalejandro.com). This is where all the magig (and mishaps) happen.
+
+# Corey Alejandro (Current Version)
 
 👋🏾 Hi there! I'm Corey Alejandro, a Full Stack Data Scientist specialized in Instructional Design, UI/UX, and Web Development.
 
@@ -28,3 +39,4 @@ Professional Certifications programs:
 - [LinkedIn](https://www.linkedin.com/in/coreyalejandro/)
 - [Twitter](https://twitter.com/coreyalejandroX)
 - [Personal Website](https://www.coreyalejandro.com/)
+`
