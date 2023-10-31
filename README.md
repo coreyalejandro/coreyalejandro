@@ -1,6 +1,6 @@
 👋🏾 Hi there! I'm Corey Alejandro,
 
-![](https://i.imgur.com/0kcVIOKs.gif)
+![](https://i.imgur.com/0kcVIOK.gif)
 
 
 I am a full stack data scientist (and Machine Learning Engineer in-the-making) with a triple threat designer skillset in Instructional Design/Instructional Systems Design (ISD),  User Interface and User Experience (UI/UX) Design and full stack Web Development and Design and Development (WeDev)— working at the intersection of artificial intelligence (AI), mental health, learning and developmment, affective commputing, and social and restorative justice.
