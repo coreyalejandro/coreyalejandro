@@ -1,6 +1,6 @@
 # Hi there! I'm **Corey Alejandro**!
 
-![](https://i.imgur.com/cHrrKeA.gif)
+![](https://i.imgur.com/0OZ8k4J.gif)
 
 
 I am a full stack data scientist (and Machine Learning Engineer in-the-making) with a triple threat designer skillset in Instructional Design/Instructional Systems Design (ISD),  User Interface and User Experience (UI/UX) Design and full stack Web Development and Design and Development (WeDev)— working at the intersection of artificial intelligence (AI), mental health, learning and developmment, affective commputing, and social and restorative justice.
@@ -17,7 +17,7 @@ I am constantly learning and leveling up my skills. The **Learning** sections fe
 Thank you for taking the time to visit me here. If you have any questions or comments, please see the **Contact** section for all the various ways you can reach me.
 
 
-## Discipline/Domain
+## **Discipline/Domain**
 
 
 - [Data Science (AI/Machine Learning) Projects](https://github.com/CoreyAlejanadro-DataScience)
@@ -25,21 +25,41 @@ Thank you for taking the time to visit me here. If you have any questions or com
 - [UI/UX Design Projects](https://github.com/CoreyAlejandro-UIUX)
 - [Web Development Projects](https://github.com/CoreyAlejandro-WebDevelopment))
 
-## Skills
+## **Skills**
+
+**AI/Machine Learning/Data Science** [Python, Numpy, Pandas, Scikit-learn SQL, Supervised & Unsupervised Machine Learning,
+Regression, Classification, Clustering, Deep Learning, Keras, Tensorflow, Data visualization, Prompt
+Engineering, ChatGPT, GPt-4] 
+
+**Instructional Design** [E-Learning
+Authoring Tools, Adobe Captivate Design Software, Adobe Creative Suite, LMS, Blackboard, Canvas, Moodle.
+Drupal, Adult Learning Theory, constructivism, Instructional Design Models:, ADDIE, ASSURE]
+
+**UI/UX Design** [Prototyping, wireframing, user flows, mockups, Visual
+design and design software, User research and usability testing, Agile, Information architecture, Application
+development, Project Management, Cross-Functional Collaboration] 
+
+
+**Full Stack Web Development** [JavaScript, Java, HTML, CSS, Django, Flask,
+NodeJS, ReactJS, AngularJS, JS, jQuery, API, Jasmine, DOM, Deployment ASW, RESTful API, MySQL,
+Bootstrap, GitHub, Databases, Tools] 
 
 
 
 
-## Learning
+
+
+## **Learning**
 Professional Certifications programs:
 
-- BloomTech Full Stack Web Development Program
-- Analytics Vidhya Black Belt Machine Learning Program
-- DeeplearningAI and Stanford Online’s Machine Learning Specialization on Coursera
+- [BloomTech Full Stack Web Development Program](https://github.com/CoreyAlejandro-BloomTech)
+- [Analytics Vidhya Black Belt Machine Learning Program](https://github.com/CoreyAlejandro-AnalyticsVidhya)
 
-## Contact
 
+## **Contact**
+
+- [Personal Website](https://www.coreyalejandro.com/)
+- [GitHub](https://github.com/coreyalejandro)
 - [LinkedIn](https://www.linkedin.com/in/coreyalejandro/)
 - [Twitter](https://twitter.com/coreyalejandroX)
-- [Personal Website](https://www.coreyalejandro.com/)
-`
+
