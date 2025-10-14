@@ -12,8 +12,8 @@
   Corey Alejandro
 </h1>
 <p align="center">
-  Data & Machine Learning Engineer<br>
-  <em>Building AI for Good. Neurodivergent. Human-centered. Ghibli dreamer.</em>
+  Data Science & AI / Machine Learning Engineering<br>
+  <em>Building AI for Good. Neurodivergent. Human-centered. AI Possessed.</em>
 </p>
 
 <div align="center">
