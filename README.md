@@ -116,6 +116,7 @@ Every system I build must produce three things: (1) a testable contribution to t
 - **[Lilian Weng](https://lilianweng.github.io)** — For the most consistently excellent technical writing in AI.
 - **[Vercel](https://vercel.com)** and the **Next.js** team — For deployment infrastructure that makes production-grade shipping fast.
 - **[GitLab](https://gitlab.com)** — For the hackathon that gave PROACTIVE its first real test.
+- **[Anna Wintour](https://www.vogue.com)** — I spend as much time flipping through the pages of Vogue Magazine as I do tech blogs, and I am as obsessed with fashion design and haute couture as I am with Constitutional AI — because they originate from the same place. Anna's soul vibes with mine because she's fearless: not necessarily intentional and not totally by accident, which is to say she's trying to do her thing the best way SHE knows how, and page by page she invites us to do the same thing: live YOUR life, be free. (And thank you [Erick Morillo](https://www.youtube.com/watch?v=7Xv7HfYaUXA) — God rest your soul — Eddie Thoneick & Shawnee Taylor for setting that ethos to music.)
 
 ---
 
