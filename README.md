@@ -110,7 +110,7 @@ The Living Constitution (governance-as-code)
 ## Deployed
 
 - coreyalejandro.com - Safety Systems Design portfolio
-- Agent Sentinel - [https://agent-sentinel-alignment-anomaly-de.vercel.app](https://agent-sentinel-alignment-anomaly-detector-813625494300.us-west2.run.app)
+- Agent Sentinel - https://agent-sentinel-alignment-anomaly-detector-813625494300.us-west2.run.app
 - Anthropic Fellows Application - July 2026 cohort
 
 ---
