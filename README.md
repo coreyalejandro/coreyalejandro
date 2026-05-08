@@ -4,12 +4,12 @@ I build **runtime verification systems for AI safety** and **behavioral observab
 
 ---
 
-## Reviewer Paths
+## Evidence Paths
 
-| Track | Signal | Lead Repo |
-|-------|--------|-----------|
-| **Anthropic Safety** | Runtime verification, evals, invariant enforcement, adversarial testing, contract-state governance | [The Living Constitution](https://github.com/coreyalejandro/the-living-constitution) |
-| **Anthropic Societal Impacts** | Behavioral observability, agency erosion, high-reliance users, differential harm measurement, privacy-aware instrumentation | [Agent Sentinel](https://github.com/coreyalejandro/Agent-Sentinel-Alignment-Anomaly-Detector) |
+| Path | Evidence Signal | Primary Artifact |
+|------|-----------------|------------------|
+| **Runtime AI Safety** | Runtime verification, evals, invariant enforcement, adversarial testing, contract-state governance | [The Living Constitution](https://github.com/coreyalejandro/the-living-constitution) |
+| **Human Reliance & Societal Risk** | Behavioral observability, agency erosion, high-reliance users, differential harm measurement, privacy-aware instrumentation | [Agent Sentinel](https://github.com/coreyalejandro/Agent-Sentinel-Alignment-Anomaly-Detector) |
 
 ---
 
