@@ -52,7 +52,7 @@ I build **runtime verification systems for AI safety** and **behavioral observab
 |--------|-------|--------|--------|
 | **Epistemic Safety** | False confident claims are operationally indistinguishable from malice. | PROACTIVE — constitutional invariant pipeline; epistemic safety checks in CI/CD. | Prototype |
 | **Cognitive Safety** | Intent translation must be lossless. Any compression of intent is a compression of safety. | ITAYN — Intention is All You Need. Intent-based alignment research. | Roadmap |
-| **Human Safety** | People are not disabled. They are dis-enabled by systems. A safe system removes its own barriers. | UICare-System — absence-over-presence signal detection for neurodivergent users. | Partial |
+| **Human Safety** | People with disablities can be further dis-enabled by AI systems. A safe system removes its own barriers. | UICare-System — absence-over-presence signal detection for neurodivergent users. | Partial |
 | **Empirical Safety** | A system that cannot be decomposed cannot be audited. A system that cannot be audited cannot be made safe. | ConsentChain — 7-stage cryptographic consent gateway. | Partial |
 
 ---
