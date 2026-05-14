@@ -1,124 +1,191 @@
-# Research Infrastructure for High-Stakes Human-AI Interaction
+# Corey Alejandro
+AI Safety Research Engineer · Cognitive Governance Architect
+Founder, Purple Brain Labs
 
-I build **runtime verification systems for AI safety** and **behavioral observability tools for studying agency erosion, dependency, and differential harm in high-reliance users** — with a focus on neurodivergent populations where standard monitoring surfaces are systematically unreliable.
+I build governance systems for AI work that must remain inspectable,
+contestable, and truthful under real-world pressure.
 
----
-
-## Evidence Paths
-
-| Path | Evidence Signal | Primary Artifact |
-|------|-----------------|------------------|
-| **Runtime AI Safety** | Runtime verification, evals, invariant enforcement, adversarial testing, contract-state governance | [The Living Constitution](https://github.com/coreyalejandro/the-living-constitution) |
-| **Human Reliance & Societal Risk** | Behavioral observability, agency erosion, high-reliance users, differential harm measurement, privacy-aware instrumentation | [Agent Sentinel](https://github.com/coreyalejandro/Agent-Sentinel-Alignment-Anomaly-Detector) |
-
----
-
-## Evidence Map
-
-| Signal | Repo | What Is Built |
-|--------|------|---------------|
-| Behavioral observability | [Agent Sentinel](https://github.com/coreyalejandro/Agent-Sentinel-Alignment-Anomaly-Detector) | 17 anomaly categories; local log ingestion; JSON audit export; risk topology chart |
-| Runtime verification | [The Living Constitution](https://github.com/coreyalejandro/the-living-constitution) | Contract Window prototype; Evidence Observatory pipeline; BID edgecase harness; falsifiable H1-H3 |
-| Vulnerable-user safety | [UICare-System](https://github.com/coreyalejandro/uicare-system) | Absence-over-presence behavioral signal detection; MonitorAgent + RescueAgent; neurodivergent-first design |
-| Prompt/eval tooling | [Meta-Prompt-Architect](https://github.com/coreyalejandro/Meta-Prompt-Architect) | Audit → stress-test → synthesis pipeline; LCI compression; PII shield; model-specific adapters |
-| Adversarial testing | [PROACTIVE](https://github.com/coreyalejandro/PROACTIVE-AI-CONSTITUTION-TOOLKIT) | Constitutional invariant framework; epistemic safety pipeline; CI/CD-integrated checks |
+My current work centers on **TLC 2.0 / The Sociotechnical Constitution**:
+a runtime governance and evidence-control system for organizing AI safety
+research, research-engineering tools, portfolio evidence, and human-impact
+work without collapsing prototypes into false production claims.
 
 ---
 
-## Status Labels
+## Current Verified Surfaces
 
-| Label | Meaning |
-|-------|----------|
-| **Implemented** | Runs locally; core workflow works |
-| **Verified** | Has passing tests or reproducible validation |
-| **Simulated** | Uses synthetic data to demonstrate a method |
-| **Prototype** | Core mechanism built; not hardened for production |
-| **Partial** | Incomplete — do not treat as working end-to-end |
-| **Roadmap** | Planned only |
+These routes are live at **coreyalejandro.com** and generated from the
+TLC 2.0 registry — not hand-authored.
 
----
+- **[Status Surface](https://coreyalejandro.com/status)** — truth-status
+  grouped view of every classified module: working, partial, draft,
+  unverified, planned.
+- **[Module Map](https://coreyalejandro.com/modules)** — surface-grouped
+  module map across Governance Core, Public Portfolio, Exhibit, Private
+  Lab, Module Library, and Documentation.
+- **[Folio 001 Exhibit](https://coreyalejandro.com/exhibits/folio-001)**
+  — truth-labeled exhibit placeholder with disclosure. Static prototype.
+  Not a live product.
 
-## The Safety Axiom
-
-> If a system can make confident claims about reality that are false, and users must rely on those claims to act, then intent is irrelevant — the effect is operationally indistinguishable from malice.
-
-**Therefore: epistemic reliability is a safety requirement, not a quality feature.**
-
----
-
-## Four Domains of Safety
-
-| Domain | Axiom | System | Status |
-|--------|-------|--------|--------|
-| **Epistemic Safety** | False confident claims are operationally indistinguishable from malice. | PROACTIVE — constitutional invariant pipeline; epistemic safety checks in CI/CD. | Prototype |
-| **Cognitive Safety** | Intent translation must be lossless. Any compression of intent is a compression of safety. | ITAYN — Intention is All You Need. Intent-based alignment research. | Roadmap |
-| **Human Safety** | People with disablities can be further dis-enabled by AI systems. A safe system removes its own barriers. | UICare-System — absence-over-presence signal detection for neurodivergent users. | Partial |
-| **Empirical Safety** | A system that cannot be decomposed cannot be audited. A system that cannot be audited cannot be made safe. | ConsentChain — 7-stage cryptographic consent gateway. | Partial |
+All claims on these pages are enforced by the registry verifier.
+`truth_status=working` requires passing tests within a declared scope.
 
 ---
 
-## SentinelOS — Six Constitutional Invariants
+## Reviewer Paths
 
-Binding gates. Violation blocks output. The system must fail closed.
+### 1. Research Path
 
-```
-I1 — Evidence-First         Every claim must cite verifiable evidence.
-I2 — No Phantom Work        Nothing is described that does not exist.
-I3 — Confidence Requires Verification   Certainty demands proof.
-I4 — Traceability Mandatory Every output traces to a requirement.
-I5 — Safety Over Fluency    Correct beats eloquent.
-I6 — Fail Closed            Ambiguity produces a safety flag, not a pass.
+Start here if you are evaluating the research contribution.
 
-extract claims -> validate I1-I6 -> produce safe output -> log evidence
-```
+Focus areas:
+- Runtime governance for long-context AI work
+- Contract-bound interaction systems
+- Cognitive safety and epistemic harm
+- Evidence surfaces for human/model collaboration
+- Claim verification and truth-state discipline
+- Paper + product research workflows
+
+Recommended entry points:
+- **The Sociotechnical Constitution Runtime** — governance core and
+  registry control plane
+- **The Living Constitution** — original governance-as-code substrate
+- **Cognitive Governance Lab** — research framing and tested
+  governance-kernel components
+- **TLC Artifacts** — curated evidence archive and methodology materials
+
+### 2. Build Path
+
+Start here if you are evaluating implementation ability.
+
+Focus areas:
+- Tested governance modules
+- TypeScript / Python research tooling
+- Contract verification
+- Evidence registries
+- AI safety demos
+- Consent and authorization systems
+
+Recommended entry points:
+- **PROACTIVE** — working local governance-core module, 731 passing tests
+  (Python, local scope verified)
+- **Sociotechnical Constitution Runtime** — verified Tier-1 governance
+  runtime; 9/9 tests pass, schema validation clean
+- **ConsentChain** — partial human-consent gateway with real
+  Next.js/Prisma architecture
+- **Consent Gateway Auth0** — partial Auth0-specific gateway exhibit
+- **Agent Sentinel** — partial React/TypeScript safety-tool demo
+
+### 3. Evidence Path
+
+Start here if you are reviewing curated artifacts, transcripts, or
+verification records.
+
+- **TLC Artifacts** — structured evidence archive (draft)
+- Curated reports and verification records in public repos
+- Raw incident transcripts are not published; curated summaries are
+
+### 4. Runtime Path
+
+Start here if you are evaluating the governance and control-plane
+implementation.
+
+- **Sociotechnical Constitution Runtime** — Tier-1 verified runtime;
+  registry verifier, module status generator, portfolio data pipeline,
+  full test suite passing
+
+### 5. Portfolio Path
+
+Start here for a public-facing guided overview of the system.
+
+- **[Status Surface](https://coreyalejandro.com/status)** — truth-labeled
+  status by module
+- **[Module Map](https://coreyalejandro.com/modules)** — full system map
+  by surface
+- **[Folio 001 Exhibit](https://coreyalejandro.com/exhibits/folio-001)**
+  — static prototype exhibit with truth disclosure
 
 ---
 
-## The Living Constitution Commonwealth
+## Current System Map
 
-```
-The Living Constitution (governance-as-code)
-    |
-    +-- SentinelOS         (I1-I6 invariant enforcement)
-    +-- PROACTIVE          (epistemic safety in CI/CD)
-    +-- ConsentChain       (cryptographic consent for agent actions)
-    +-- UICare             (human safety for neurodivergent users)
-    +-- Agent Sentinel     (behavioral observability layer)
-```
-
-| System | Status |
-|--------|--------|
-| The Living Constitution | Prototype |
-| Agent Sentinel | Implemented |
-| UICare-System | Partial |
-| PROACTIVE | Prototype |
-| ConsentChain | Partial |
-| SentinelOS | Partial |
+| Layer | Role | Status |
+|---|---|---|
+| Sociotechnical Constitution Runtime | Governance core and registry control plane | Working within tested scope (9/9 tests) |
+| PROACTIVE | Local governance-core safety module | Working within tested local scope (731 tests) |
+| The Living Constitution | Original governance substrate | Partial — STATUS.json + CRSP contract verified |
+| Cognitive Governance Lab | Research/product module | Partial — governance-kernel component verified (62 tests) |
+| ConsentChain | Human-consent gateway | Partial — TypeScript compilation verified |
+| Consent Gateway Auth0 | Auth0 consent gateway exhibit | Partial — TypeScript compilation + test files confirmed |
+| Agent Sentinel | Alignment anomaly detector | Partial — TypeScript compilation verified |
+| TLC Artifacts | Evidence archive | Draft |
+| Portfolio (coreyalejandro.com) | Public evidence surface | Partial — build clean, 3 registry-driven routes live |
 
 ---
 
-## The 35-Year Arc
+## What I Do Not Claim
 
-| Era | Period | Signal |
-|-----|--------|----------|
-| **The Educator** | 1991-2008 | Stanford BA Drama. K-12 Oakland and LA. Charter School Co-Founder, XCEL Academy SF. Safety was the literal removal of harm. |
-| **The Dean** | 2008-2015 | Executive Director OC Global, Odessa College. Director Online Learning, Our Lady of the Lake University. I architected accelerated online college infrastructure in Texas. I called it Infrastructure. |
-| **The AI Engineer** | 2015-Present | Data Science. AI Engineering. Safety Systems Design. Constitutional Governance Research. The formulas I write are mathematical expressions of the same safety work, in a different medium. |
-
----
-
-## Deployed
-
-- coreyalejandro.com - Safety Systems Design portfolio
-- Agent Sentinel - https://agent-sentinel-alignment-anomaly-detector-813625494300.us-west2.run.app
-- Anthropic Fellows Application - July 2026 cohort
+- Not all modules are production-ready. Most are partial or verified
+  within a specific component scope only.
+- Some systems are draft — structured content exists, no runnable code.
+- Folio 001 is a static prototype exhibit. It is not a live product and
+  is not maintained.
+- The Live Lab is not yet public. Private work remains private.
+- Raw evidence is curated before public release. Incident transcripts
+  are not published unreviewed.
+- "Working" means a specific verified scope, not a whole-project claim.
+  A working component inside a partial project does not make the project
+  working.
 
 ---
 
-## Doctrine
+## What "Working" Means Here
 
-> Design for the most vulnerable user first, and you reach them all.
+I do not use "working" as a vibe word.
+
+A project is marked working only when the specific claim being made has
+been verified. A component may be working while the broader project
+remains partial.
+
+Examples:
+- PROACTIVE is working as a local tested governance-core package.
+  Its live GitLab/Duo integration remains unverified.
+- Sociotechnical Constitution Runtime is working as a Tier-1 governance
+  runtime and control plane. Its downstream integrations are partial.
+- Cognitive Governance Lab contains a working governance-kernel
+  component. The broader research program remains partial.
+
+This distinction is deliberate.
 
 ---
 
-*Safety is not a feature I add. It is the system I design.*
+## Why This Work Exists
+
+Most AI safety work focuses on model behavior, training-time alignment,
+or post-hoc evaluation. My work focuses on a complementary problem:
+
+> How do we make AI-assisted work itself governable while it is
+> happening?
+
+That requires visible contracts, claim boundaries, evidence surfaces,
+status discipline, and interfaces that prevent prototypes from being
+mistaken for production.
+
+---
+
+## Public Evidence Policy
+
+Public repos show curated, reviewable evidence.
+
+Private or restricted materials may include:
+- raw incident transcripts
+- unpublished paper drafts
+- unreviewed evidence chains
+- product implementation details
+- private lab workflows
+- commercially sensitive automation plans
+
+I publish enough to support serious review without exposing unfinished
+or strategically valuable intellectual property prematurely.
+
+---
