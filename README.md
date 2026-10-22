@@ -38,7 +38,7 @@ I welcome remote work in AI Engineering, learning systems, instructional design,
 | Mothership | Governance system, registry, contracts, templates, truth state | [The Living Constitution 2.0](https://github.com/coreyalejandro/the-living-constitution-2.0) |
 | Public Site | Public-facing Living Constitution portfolio and Folio 001 | [coreyalejandro.com](https://coreyalejandro.com) |
 | Module Status | What is working, partial, draft, planned, or unverified | [MODULE_STATUS.md](https://github.com/coreyalejandro/the-living-constitution-2.0/blob/main/MODULE_STATUS.md) |
-| Static Site Repo | Public static Living Constitution site source | [the-living-constitution-2.0-portfolio](https://github.com/coreyalejandro/the-living-constitution-2.0-portfolio) |
+| Earlier Site Source | How the public site developed (the live site is built from newer source) | [the-living-constitution-2.0-portfolio](https://github.com/coreyalejandro/the-living-constitution-2.0-portfolio) |
 
 ## Research results (each reruns with one command)
 
