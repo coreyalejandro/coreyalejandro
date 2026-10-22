@@ -40,6 +40,16 @@ I welcome remote work in AI Engineering, learning systems, instructional design,
 | Module Status | What is working, partial, draft, planned, or unverified | [MODULE_STATUS.md](https://github.com/coreyalejandro/the-living-constitution-2.0/blob/main/MODULE_STATUS.md) |
 | Static Site Repo | Public static Living Constitution site source | [the-living-constitution-2.0-portfolio](https://github.com/coreyalejandro/the-living-constitution-2.0-portfolio) |
 
+## Research results (each reruns with one command)
+
+| Result | Repository |
+|---|---|
+| Pre-registered: a four-rule constitution cut Claude Haiku 4.5's judged rule violations from 22% to 0% (second judge: 27% to 2%); vague safety rules of the same length reached only 15% | [constitutional-runtime-evals](https://github.com/coreyalejandro/constitutional-runtime-evals) |
+| Relational vs. transactional framing is readable inside Qwen2.5 models across vocabularies (81%, 85%, 92% for 0.5B, 1.5B, 7B; p = 0.001); steering it showed no causal effect, reported as such | [eight-wonders-framing-probes](https://github.com/coreyalejandro/eight-wonders-framing-probes) |
+| Relational Economy Benchmark: hidden-relationship worlds that reproduce byte for byte (159 tests); no language model scored yet | [reb](https://github.com/coreyalejandro/reb) |
+| PROACTIVE: a constitutional agent that blocks a flawed merge request (732 tests) | [28441830](https://github.com/coreyalejandro/28441830) |
+| The Living Constitution 2.0 re-runs all four from fresh clones; 22 governance rules model-checked | [the-living-constitution-2.0](https://github.com/coreyalejandro/the-living-constitution-2.0) |
+
 ## What I Build
 
 I work at the intersection of:
@@ -79,7 +89,7 @@ C-RSP means **Constitutionally-Regulated Single Pass**. It is one subsystem insi
 | Public site at coreyalejandro.com | Working static public surface |
 | Folio 001 | Static prototype / origin exhibit |
 | Research-to-paper-to-product template | Partial, usable template scaffold |
-| HIDRS study repo | Active research module, partial |
+| [HIDRS study repo](https://github.com/coreyalejandro/hidrs-instructional-dependency-study) | Active research module, partial |
 
 ## What I Do Not Claim
 
@@ -97,7 +107,7 @@ Research reviewers should start with **The Living Constitution 2.0** and the sys
 
 Build reviewers should inspect the module registry, templates, verification scripts, and public site repo.
 
-Evidence reviewers should start with \`MODULE_STATUS.md\`, registry files, and public-safe artifacts.
+Evidence reviewers should start with the research results above, then `MODULE_STATUS.md` (a May 2026 snapshot), registry files, and public-safe artifacts.
 
 Portfolio reviewers should start at **coreyalejandro.com**.
 
